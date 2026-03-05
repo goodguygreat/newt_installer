@@ -23,7 +23,7 @@ OLM INSTALLER
 Script can do fresh install, update exsisting install with new site information, update Newt to latest version, remove Newt and assosociated service entries.  
 Download Newt Installer
 ```bash
-sudo wget -O newt_installer.sh "https://raw.githubusercontent.com/goodguygreat/newt_installer/refs/heads/main/olm_installer.sh" && sudo chmod +x ./olm_installer.sh
+sudo wget -O olm_installer.sh "https://raw.githubusercontent.com/goodguygreat/newt_installer/refs/heads/main/olm_installer.sh" && sudo chmod +x ./olm_installer.sh
 ```
 
 Run Newt Installer
